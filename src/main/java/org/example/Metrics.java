@@ -1,5 +1,5 @@
 package org.example;
-
+// Metrics
 public class Metrics {
     public static long comparisons = 0;
     public static long recursionDepth = 0;
