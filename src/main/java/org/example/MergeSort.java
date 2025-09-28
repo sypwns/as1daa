@@ -1,5 +1,5 @@
 package org.example;
-
+// MergeSort
 public class MergeSort {
     private static final int INSERTION_SORT_THRESHOLD = 16;
 
