@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.Random;
-
+// QuickSort
 public class QuickSort {
     private static final Random rand = new Random();
 
